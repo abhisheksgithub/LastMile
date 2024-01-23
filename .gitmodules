@@ -1,3 +1,0 @@
-[submodule "offline-client"]
-	path = offline-client
-	url = ./offline-client
